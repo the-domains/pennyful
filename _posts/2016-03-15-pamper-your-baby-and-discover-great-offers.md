@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Pamper Your Baby and Discover Great Offers
-datePublished: '2016-03-15T10:50:39.319Z'
-dateModified: '2016-03-15T10:50:38.523Z'
-title: ''
+description: ''
+datePublished: '2016-03-15T13:23:12.999Z'
+dateModified: '2016-03-15T13:23:12.172Z'
+title: Pamper Your Baby and Discover Great Offers
 author: []
+sourcePath: _posts/2016-03-15-pamper-your-baby-and-discover-great-offers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-pamper-your-baby-and-discover-great-offers.md
-published: true
 url: pamper-your-baby-and-discover-great-offers/index.html
 _type: Article
 
