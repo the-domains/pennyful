@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-15T13:25:42.450Z'
-dateModified: '2016-03-15T13:25:40.933Z'
+description: "Ensure the best start for your babies with BabyeOye. \_Discover great products for your babies that are made with care specially to keep your little one safe. Also, don’t forget to pamper yourself with comfortable clothing and maternity care products. Check out the below mentioned deals specially for your baby and you from BabyOye."
+datePublished: '2016-03-15T13:26:01.143Z'
+dateModified: '2016-03-15T13:26:00.417Z'
 title: Pamper Your Baby and Discover Great Offers
 author: []
 sourcePath: _posts/2016-03-15-pamper-your-baby-and-discover-great-offers.md
