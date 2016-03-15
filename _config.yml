@@ -1,0 +1,28 @@
+name: Pennyful
+favicon: null
+layout_spectrum: 0.7964401131030172
+typography_spectrum: 0.7160673742182553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8611985396128148
+  lightness: 0.4670498985797167
+  saturation: 0.9864488581661135
+  rhythmicContrast: 0.5503950440324843
+purpose: []
